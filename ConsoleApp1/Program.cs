@@ -1,2 +1,6 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿Console.WriteLine("Hello, World!");
+if (1 < 3)
+{
+    Console.WriteLine("1 is less than 3");
+    Console.WriteLine("1 is less than 2");
+}
